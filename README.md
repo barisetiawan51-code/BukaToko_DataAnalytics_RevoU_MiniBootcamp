@@ -1,2 +1,2 @@
-# log aktivitas user pada sebuah platform e-commerce yaitu BukaToko
+# Analisis Data Log Aktivitas User pada Sebuah Platform E-commerce yaitu BukaToko
 
