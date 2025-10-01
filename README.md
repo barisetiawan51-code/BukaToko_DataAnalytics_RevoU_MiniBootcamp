@@ -45,6 +45,7 @@ Beberapa tools dan teknologi yang dapat digunakan dalam proyek ini:
 * Visualisasi conversion funnel dan drop-off points
 * Insight mengenai channel pemasaran paling efektif
 * Rekomendasi untuk meningkatkan engagement dan konversi pengguna, antara lain:
+  
       1. Indonesia merupakan pasar utama dengan aktivitas pengguna tertinggi; fokus strategi di negara ini dan pasar menengah seperti US, Filipina, Malaysia, Singapura, dan Vietnam.
       2. Mayoritas pengguna menggunakan smartphone, menekankan pentingnya optimalisasi pengalaman mobile.
       3. Email marketing masih menjadi channel paling efektif, sementara social media, referral, dan organic juga berkontribusi merata; strategi personalisasi per channel dianjurkan.
